@@ -1,5 +1,3 @@
-Host-Website-on-AWS-S3 -
-
 https://eu-central-1.console.aws.amazon.com/s3/buckets/aws-cloud-engineer-website?region=eu-central-1&prefix=Cloud%2F&showversions=false&tab=objects
 
 https://aws-cloud-engineer-website.s3.eu-central-1.amazonaws.com/Cloud/index.html
