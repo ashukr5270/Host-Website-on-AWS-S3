@@ -18,4 +18,5 @@ AWS :
 
 • Configure Route53 record for custom domain.
 
+
 ![image alt](https://github.com/ashukr5270/Host-Website-on-AWS-S3/blob/b07363530286cd000ab069b9a5569af5ed415458/Image.jpeg)
